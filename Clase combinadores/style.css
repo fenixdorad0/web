@@ -1,0 +1,14 @@
+/* Aqui todas las etiquetas que esten cerca a un h2 los parrafos seran rojos */
+h2 + p {
+    color: red;
+}
+
+/* Combinador general alt 126 */
+
+
+h2 ~ p {
+    color: green;
+}
+
+/* Nota se esta sobre escribiendo las reglas*/
+

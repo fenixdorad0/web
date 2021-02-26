@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box {
+    display: inline-block;
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+}
+#two {
+    background-color: gray;
+}
+
+.box1 
+{
+    background-color: rgb(59, 72, 86);   
+    margin: 0 auto;
+    width: 330px;
+    height: 488px;
+    margin: 0 auto;
+   
+}
+
+.box21
+{
+   text-align: center;
+    border: 2px ;
+    margin: 0 auto;
+    width: 93%;
+    height: 7%;
+    top: 16px;
+    background-color: rgb(191, 131, 96);
+    position: relative;
+    
+}
+.box2
+{
+   margin-bottom: 80%;
+    border: 2px ;
+    margin: 0 auto;
+    width: 93%;
+    height: 93%;
+    top: 16px;
+    background-color: rgb(202, 164, 132);
+    position: relative;
+    
+}
+
+.box3
+{
+   
+    margin: 0 auto;
+    border: 4px double rgb(131, 142, 143);
+    width: 83%;
+    height: 55%;
+    top: 20px;
+    background-color:rgb(131, 142, 143) ;
+    
+    position: relative;
+    
+}
+
+.image {
+    border: 10px  rgb(10, 91, 177);
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.box4 {
+    margin: 0 auto;
+    border: 4px double rgb(209, 143, 93);
+    width: 93%;
+    height: 23%;
+    top: 30px;
+    background-color:rgb(251, 222, 200) ;
+    
+    position: relative;
+}
+
+h3 {
+    
+    font-size: 25px;
+    left: 20px;
+}
+
+article {
+    font-size: 11px;
+    margin-left: 5px;
+    text-align:inherit
+}
+
+.estrella {
+    
+    border: 20px  rgb(10, 91, 177);
+    width: 20px;
+    height: 20px;
+    
+}
+
+.contEstrella {
+    border: 2px ;
+    margin: 0 auto;
+    width: 93%;
+    
+    top: 20px;
+    text-align: right;
+    right: 15px;
+    position: relative;
+}
+
+.luz {
+   
+    width: 30px;
+    height: 30px;
+    
+}
+
+h6 {
+    text-align: right;
+  
+}

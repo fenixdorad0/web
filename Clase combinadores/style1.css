@@ -1,0 +1,11 @@
+/* Combinadores hijos child*/
+
+div > p {
+    color: fuchsia;
+}
+
+/* decendientes basicamente todos los que esten dentro de un conjunto */ 
+
+div h3 {
+    color: gold;
+}
